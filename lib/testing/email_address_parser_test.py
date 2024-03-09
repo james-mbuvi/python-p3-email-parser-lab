@@ -1,4 +1,4 @@
-from email_address_parser import EmailAddressParser
+from lib.testing.email_address_parser import EmailAddressParser
 
 class TestEmailAddressParser:
     '''Class EmailAddressParser in email_address_parser.py'''
